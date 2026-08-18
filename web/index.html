@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clinical Decision Support Lite</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-top">
+        <div class="brand-mark">CDS</div>
+        <div>
+          <strong>Clinical RAG</strong>
+          <span>Day 2 Retrieval Lab</span>
+        </div>
+      </div>
+      <button id="newChat" class="new-chat">＋ New chat</button>
+      <div class="history-title">Chat history</div>
+      <div id="history" class="history-list"></div>
+      <div class="sidebar-footer">
+        <div class="scope-mini">Adult Hypertension</div>
+        <button id="clearHistory" class="text-button">Clear history</button>
+      </div>
+    </aside>
+
+    <main class="main-shell">
+      <header class="topbar">
+        <button id="menuButton" class="icon-button mobile-only" aria-label="Open chat history">☰</button>
+        <div>
+          <div class="eyebrow">AI Clinical Decision Support Lite</div>
+          <h1>Adult Hypertension Assistant</h1>
+        </div>
+        <div class="top-actions">
+          <span class="scope-badge">NICE evidence only</span>
+          <span id="health" class="health-badge">Checking…</span>
+        </div>
+      </header>
+
+      <div class="content-wrap">
+        <section class="notice">
+          <strong>Educational use only.</strong>
+          This prototype retrieves evidence from the approved project knowledge base. It does not diagnose, prescribe, or replace professional clinical judgment.
+        </section>
+
+        <section id="chat" class="chat-area"></section>
+
+        <section class="composer-card">
+          <div class="composer-row">
+            <textarea id="question" rows="3" maxlength="1000" placeholder="Ask a clinical evidence question…"></textarea>
+            <button id="askButton" class="send-button" aria-label="Send question">↑</button>
+          </div>
+          <div class="composer-meta">
+            <span id="status">Hybrid retrieval · Top-5 · Day-2 baseline</span>
+            <span>Ctrl/Cmd + Enter to send</span>
+          </div>
+          <div class="examples">
+            <button class="example">How is hypertension confirmed using ambulatory blood pressure monitoring?</button>
+            <button class="example">What lifestyle changes can help lower blood pressure?</button>
+            <button class="example">What are common side effects of ACE inhibitors?</button>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

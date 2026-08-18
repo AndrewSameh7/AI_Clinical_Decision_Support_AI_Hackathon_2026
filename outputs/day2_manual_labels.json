@@ -1,0 +1,221 @@
+{
+  "Q01": {
+    "question": "How is hypertension confirmed using ambulatory blood pressure monitoring?",
+    "relevant": {
+      "HTN-NG136-P037-S_RECOMMEN-C192-a1bb406a": true,
+      "HTN-NG136-P022-S_STEP4TRE-C117-50848569": true,
+      "HTN-NG136-P031-S_RECOMMEN-C152-7e351fbe": true,
+      "HTN-NG136-P008-S_12DIAGNO-C044-9f56de3c": true,
+      "HTN-NG136-P008-S_12DIAGNO-C043-8a558d82": true,
+      "HTN-NG136-P007-S_12DIAGNO-C042-ec04ce0a": true,
+      "HTN-NG136-P007-S_12DIAGNO-C041-3086cd82": true,
+      "HTN-NG136-P006-S_11MEASUR-C037-c4b269e0": true,
+      "HTN-NG136-P025-S_TERMSUSE-C094-8b7634d2": true,
+      "HTN-NG136-P037-S_RECOMMEN-C133-c26e00b7": true,
+      "HTN-NG136-P022-S_STEP4TRE-C086-6e05a4e3": true,
+      "HTN-NG136-P031-S_RECOMMEN-C108-8db17d89": true
+    }
+  },
+  "Q02": {
+    "question": "How should home blood pressure monitoring be performed to confirm hypertension?",
+    "relevant": {
+      "HTN-NG136-P006-S_11MEASUR-C041-ea00835c": true,
+      "HTN-NG136-P037-S_RECOMMEN-C192-a1bb406a": true,
+      "HTN-NG136-P036-S_RECOMMEN-C185-57492f41": true,
+      "HTN-NG136-P007-S_12DIAGNO-C047-f69382af": true,
+      "HTN-NG136-P007-S_12DIAGNO-C049-ecafa25e": true,
+      "HTN-NG136-P037-S_RECOMMEN-C188-0f4aef6c": true,
+      "HTN-NG136-P031-S_RECOMMEN-C152-7e351fbe": true,
+      "HTN-NG136-P039-S_RECOMMEN-C205-c58807c7": true,
+      "HTN-NG136-P025-S_TERMSUSE-C132-e2f8a019": true,
+      "HTN-NG136-P008-S_12DIAGNO-C044-9f56de3c": true
+    }
+  },
+  "Q03": {
+    "question": "What investigations should be offered to people with hypertension for target organ damage?",
+    "relevant": {}
+  },
+  "Q04": {
+    "question": "What lifestyle changes can help lower blood pressure?",
+    "relevant": {}
+  },
+  "Q05": {
+    "question": "What are common side effects of ACE inhibitors?",
+    "relevant": {
+      "HTN-PDA-2019-P006-S_WHATARES-C020-231506dc": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C021-70d9cd9e": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C022-c3c1d0de": true,
+      "HTN-PDA-2019-P006-S_WHATARET-C018-b74c0540": true,
+      "HTN-PDA-2019-P010-S_YOURCHAN-C037-76180cc9": true,
+      "HTN-PDA-2019-P009-S_WHATELSE-C032-8de77b3f": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C015-d4f2fcf9": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C016-25a56e82": true,
+      "HTN-PDA-2019-P007-S_WHATARES-C019-84e5f47f": true,
+      "HTN-PDA-2019-P006-S_WHATARET-C014-b74c0540": true,
+      "HTN-PDA-2019-P005-S_WHATAREM-C011-66f98d41": true,
+      "HTN-PDA-2019-P010-S_YOURCHAN-C027-76180cc9": true,
+      "HTN-PDA-2019-P009-S_WHATELSE-C024-4d7297c0": true,
+      "HTN-PDA-2019-P004-S_WHATAREM-C010-c39d75fa": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C017-53a72d3c": true
+    }
+  },
+  "Q06": {
+    "question": "What blood tests are needed when starting an ACE inhibitor or ARB?",
+    "relevant": {
+      "HTN-PDA-2019-P006-S_WHATARET-C018-b74c0540": true,
+      "HTN-NG136-P019-S_STEP1TRE-C105-21910fd1": true,
+      "HTN-PDA-2019-P005-S_WHATAREM-C015-66f98d41": true,
+      "HTN-PDA-2019-P008-S_WILLINEE-C030-811bf134": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C020-231506dc": true,
+      "HTN-PDA-2019-P008-S_WILLINEE-C029-04bd167d": true,
+      "HTN-NG136-P020-S_STEP1TRE-C107-fab88cd3": true,
+      "HTN-PDA-2019-P008-S_WILLINEE-C028-21d37d34": true,
+      "HTN-PDA-2019-P008-S_WILLINEE-C022-739af16c": true,
+      "HTN-PDA-2019-P006-S_WHATARET-C014-b74c0540": true,
+      "HTN-NG136-P019-S_STEP1TRE-C078-21910fd1": true,
+      "HTN-PDA-2019-P005-S_WHATAREM-C011-66f98d41": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C016-25a56e82": true,
+      "HTN-PDA-2019-P008-S_WILLINEE-C021-ad8486a4": true,
+      "HTN-NG136-P020-S_STEP1TRE-C079-957350cf": true,
+      "HTN-NG136-P043-S_RECOMMEN-C155-12d811ea": true,
+      "HTN-PDA-2019-P006-S_WHATARES-C015-d4f2fcf9": true
+    }
+  },
+  "Q07": {
+    "question": "What are the types of medicines used to control high blood pressure?",
+    "relevant": {
+      "HTN-PDA-2019-P002-S_WHATAREM-C008-c073c9a1": true,
+      "HTN-PDA-2019-P001-S_OVERVIEW-C001-b626ff2e": true
+    }
+  },
+  "Q08": {
+    "question": "What should happen if clinic blood pressure is 180/120 mmHg or higher?",
+    "relevant": {
+      "HTN-NG136-P025-S_TERMSUSE-C132-e2f8a019": false,
+      "HTN-NG136-P016-S_MONITORI-C087-99897ac6": false,
+      "HTN-NG136-P026-S_TERMSUSE-C134-b4cb8b77": false,
+      "HTN-NG136-P024-S_15IDENTI-C125-6c9bdbd0": false,
+      "HTN-NG136-P007-S_12DIAGNO-C049-ecafa25e": false,
+      "HTN-NG136-P007-S_12DIAGNO-C047-f69382af": false,
+      "HTN-NG136-P007-S_12DIAGNO-C041-3086cd82": false,
+      "HTN-NG136-P016-S_MONITORI-C067-84c90c51": false,
+      "HTN-NG136-P016-S_MONITORI-C066-2fa42483": false,
+      "HTN-NG136-P007-S_12DIAGNO-C042-ec04ce0a": false,
+      "HTN-NG136-P024-S_15IDENTI-C090-9a8c6457": false,
+      "HTN-NG136-P026-S_TERMSUSE-C096-f1dde3f9": false,
+      "HTN-NG136-P025-S_TERMSUSE-C093-0b74e169": false,
+      "HTN-NG136-P024-S_15IDENTI-C091-211a7535": true
+    }
+  },
+  "Q09": {
+    "question": "How should blood pressure be measured in both arms?",
+    "relevant": {
+      "HTN-NG136-P007-S_12DIAGNO-C047-f69382af": true,
+      "HTN-NG136-P031-S_RECOMMEN-C154-3d6649d2": true,
+      "HTN-NG136-P006-S_11MEASUR-C041-ea00835c": true,
+      "HTN-NG136-P006-S_11MEASUR-C042-d455aea9": true,
+      "HTN-NG136-P008-S_12DIAGNO-C052-705c2ccf": true,
+      "HTN-NG136-P037-S_RECOMMEN-C192-a1bb406a": true,
+      "HTN-NG136-P039-S_RECOMMEN-C205-c58807c7": true,
+      "HTN-NG136-P037-S_RECOMMEN-C191-be28a818": true,
+      "HTN-NG136-P038-S_RECOMMEN-C194-be3768df": true,
+      "HTN-NG136-P007-S_12DIAGNO-C041-3086cd82": true,
+      "HTN-NG136-P006-S_11MEASUR-C037-c4b269e0": true,
+      "HTN-NG136-P005-S_11MEASUR-C036-5517c13e": true,
+      "HTN-NG136-P008-S_12DIAGNO-C043-8a558d82": true,
+      "HTN-NG136-P008-S_12DIAGNO-C044-9f56de3c": true,
+      "HTN-NG136-P037-S_RECOMMEN-C133-c26e00b7": true,
+      "HTN-NG136-P039-S_RECOMMEN-C142-242f3ccf": true,
+      "HTN-NG136-P031-S_RECOMMEN-C108-8db17d89": true,
+      "HTN-NG136-P038-S_RECOMMEN-C135-684a0e08": true,
+      "HTN-NG136-P031-S_RECOMMEN-C109-26818cee": true,
+      "HTN-NG136-P032-S_RECOMMEN-C110-d3be563d": true
+    }
+  },
+  "Q10": {
+    "question": "When should a clinic blood pressure measurement be repeated during assessment?",
+    "relevant": {
+      "HTN-NG136-P007-S_12DIAGNO-C048-21fcec7b": true,
+      "HTN-NG136-P009-S_12DIAGNO-C055-26eb9f62": true,
+      "HTN-NG136-P031-S_RECOMMEN-C153-5052a597": true,
+      "HTN-NG136-P031-S_RECOMMEN-C154-3d6649d2": true,
+      "HTN-NG136-P008-S_12DIAGNO-C052-705c2ccf": true,
+      "HTN-NG136-P007-S_12DIAGNO-C047-f69382af": true,
+      "HTN-NG136-P025-S_TERMSUSE-C132-e2f8a019": true,
+      "HTN-NG136-P008-S_12DIAGNO-C050-885e7c39": true,
+      "HTN-NG136-P024-S_15IDENTI-C125-6c9bdbd0": true,
+      "HTN-NG136-P007-S_12DIAGNO-C041-3086cd82": true,
+      "HTN-NG136-P009-S_12DIAGNO-C046-1c94c6a8": true,
+      "HTN-NG136-P008-S_12DIAGNO-C043-8a558d82": true,
+      "HTN-NG136-P024-S_15IDENTI-C091-211a7535": true,
+      "HTN-NG136-P006-S_11MEASUR-C037-c4b269e0": true,
+      "HTN-NG136-P031-S_RECOMMEN-C108-8db17d89": true,
+      "HTN-NG136-P025-S_TERMSUSE-C094-8b7634d2": true,
+      "HTN-NG136-P039-S_RECOMMEN-C141-c1a8731f": true
+    }
+  },
+  "Q11": {
+    "question": "What cardiovascular risk assessment is recommended for adults with hypertension?",
+    "relevant": {
+      "HTN-NG136-P034-S_RECOMMEN-C174-4b0f40c7": true,
+      "HTN-NG136-P037-S_RECOMMEN-C193-051d05f7": true,
+      "HTN-NG136-P012-S_STARTING-C071-7af91499": true
+    }
+  },
+  "Q12": {
+    "question": "What are common advantages and disadvantages of lifestyle changes compared with taking medicine?",
+    "relevant": {}
+  },
+  "Q13": {
+    "question": "What are common side effects associated with calcium channel blockers?",
+    "relevant": {}
+  },
+  "Q14": {
+    "question": "What should someone think about when choosing a blood pressure medicine?",
+    "relevant": {}
+  },
+  "Q15": {
+    "question": "What is the recommended approach to starting antihypertensive drug treatment?",
+    "relevant": {
+      "HTN-NG136-P021-S_STEP1TRE-C112-c1ba518f": true,
+      "HTN-NG136-P027-S_KEYRECOM-C140-cd70f0ce": true,
+      "HTN-NG136-P017-S_MONITORI-C093-1c92e20c": true,
+      "HTN-NG136-P027-S_KEYRECOM-C139-a5f0e690": true,
+      "HTN-NG136-P044-S_RECOMMEN-C236-e52fb66c": true,
+      "HTN-NG136-P036-S_RECOMMEN-C184-805650ee": true,
+      "HTN-NG136-P019-S_MONITORI-C103-0d5d4540": true,
+      "HTN-NG136-P013-S_STARTING-C072-8048dcf4": true,
+      "HTN-NG136-P027-S_KEYRECOM-C100-3ead4966": true,
+      "HTN-NG136-P013-S_STARTING-C057-4f308fd3": true,
+      "HTN-NG136-P019-S_MONITORI-C077-dd67c525": true,
+      "HTN-NG136-P023-S_STEP4TRE-C087-e57a1dd3": true,
+      "HTN-NG136-P013-S_STARTING-C059-6410882d": true,
+      "HTN-NG136-P012-S_STARTING-C055-9374ab1e": true,
+      "HTN-NG136-P034-S_RECOMMEN-C119-6f7227f0": true
+    }
+  },
+  "Q16": {
+    "question": "What monitoring and blood pressure targets are described after treatment starts?",
+    "relevant": {
+      "HTN-NG136-P017-S_MONITORI-C092-e6f3019e": true,
+      "HTN-NG136-P051-S_UPDATEIN-C264-8a9a50ee": true,
+      "HTN-NG136-P051-S_UPDATEIN-C266-7e4a7c63": true,
+      "HTN-NG136-P043-S_RECOMMEN-C230-d14cdf67": true,
+      "HTN-NG136-P024-S_15IDENTI-C124-38027b4f": true,
+      "HTN-NG136-P027-S_KEYRECOM-C138-4cbb0691": true,
+      "HTN-NG136-P028-S_KEYRECOM-C141-9de10911": true,
+      "HTN-NG136-P017-S_MONITORI-C090-fe956139": true,
+      "HTN-NG136-P029-S_OTHERREC-C146-742f14dc": true,
+      "HTN-NG136-P029-S_OTHERREC-C147-42d97a87": true,
+      "HTN-NG136-P027-S_KEYRECOM-C139-a5f0e690": true,
+      "HTN-NG136-P024-S_15IDENTI-C090-9a8c6457": true,
+      "HTN-NG136-P051-S_UPDATEIN-C179-b61fa871": true,
+      "HTN-NG136-P017-S_MONITORI-C069-16b2f4e6": true,
+      "HTN-NG136-P027-S_KEYRECOM-C099-eba683d6": true,
+      "HTN-NG136-P036-S_RECOMMEN-C128-61e497e0": true,
+      "HTN-NG136-P028-S_KEYRECOM-C101-75ad82ab": true,
+      "HTN-NG136-P029-S_OTHERREC-C104-a2a7b289": true,
+      "HTN-PDA-2019-P008-S_WILLINEE-C021-ad8486a4": true
+    }
+  }
+}
