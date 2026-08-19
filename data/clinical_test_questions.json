@@ -1,0 +1,18 @@
+[
+  {"id":"Q01","question":"How is hypertension confirmed using ambulatory blood pressure monitoring?","topic":"Diagnosis / ABPM","expected_sources":["HTN-NG136"],"expected_sections":["1.2 Diagnosing hypertension"]},
+  {"id":"Q02","question":"How should home blood pressure monitoring be performed to confirm hypertension?","topic":"Diagnosis / HBPM","expected_sources":["HTN-NG136"],"expected_sections":["1.2 Diagnosing hypertension"]},
+  {"id":"Q03","question":"What investigations should be offered to people with hypertension for target organ damage?","topic":"Target organ damage","expected_sources":["HTN-NG136"],"expected_sections":["1.3 Assessing cardiovascular risk and target organ damage"]},
+  {"id":"Q04","question":"What lifestyle changes can help lower blood pressure?","topic":"Lifestyle management","expected_sources":["HTN-PDA-2019"],"expected_sections":["What are my options?"]},
+  {"id":"Q05","question":"What are common side effects of ACE inhibitors?","topic":"Medication side effects","expected_sources":["HTN-PDA-2019"],"expected_sections":["What are some of the common side effects?"]},
+  {"id":"Q06","question":"What blood tests are needed when starting an ACE inhibitor or ARB?","topic":"Medication monitoring","expected_sources":["HTN-PDA-2019","HTN-NG136"],"expected_sections":["Will I need blood tests?","1.4 Treating and monitoring hypertension"]},
+  {"id":"Q07","question":"What are the types of medicines used to control high blood pressure?","topic":"Medication options","expected_sources":["HTN-PDA-2019"],"expected_sections":["What are the types of medicine and what are they called?"]},
+  {"id":"Q08","question":"What should happen if clinic blood pressure is 180/120 mmHg or higher?","topic":"Severe hypertension / referral","expected_sources":["HTN-NG136"],"expected_sections":["1.5 Identifying who to refer for same-day specialist review"]},
+  {"id":"Q09","question":"How should blood pressure be measured in both arms?","topic":"Measurement","expected_sources":["HTN-NG136"],"expected_sections":["1.1 Measuring blood pressure"]},
+  {"id":"Q10","question":"When should a clinic blood pressure measurement be repeated during assessment?","topic":"Measurement","expected_sources":["HTN-NG136"],"expected_sections":["1.1 Measuring blood pressure"]},
+  {"id":"Q11","question":"What cardiovascular risk assessment is recommended for adults with hypertension?","topic":"Cardiovascular risk","expected_sources":["HTN-NG136"],"expected_sections":["1.3 Assessing cardiovascular risk and target organ damage"]},
+  {"id":"Q12","question":"What are common advantages and disadvantages of lifestyle changes compared with taking medicine?","topic":"Lifestyle vs medication","expected_sources":["HTN-PDA-2019"],"expected_sections":["What are my options?"]},
+  {"id":"Q13","question":"What are common side effects associated with calcium channel blockers?","topic":"Medication side effects","expected_sources":["HTN-PDA-2019"],"expected_sections":["What are some of the common side effects?"]},
+  {"id":"Q14","question":"What should someone think about when choosing a blood pressure medicine?","topic":"Shared decision support","expected_sources":["HTN-PDA-2019"],"expected_sections":["What else do I need to think about?"]},
+  {"id":"Q15","question":"What is the recommended approach to starting antihypertensive drug treatment?","topic":"Treatment initiation","expected_sources":["HTN-NG136"],"expected_sections":["Starting antihypertensive drug treatment"]},
+  {"id":"Q16","question":"What monitoring and blood pressure targets are described after treatment starts?","topic":"Treatment monitoring","expected_sources":["HTN-NG136"],"expected_sections":["Monitoring treatment and blood pressure targets"]}
+]
