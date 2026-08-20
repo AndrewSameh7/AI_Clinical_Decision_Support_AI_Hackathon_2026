@@ -332,7 +332,7 @@ The complete General Documentation PDF is included directly in the repository in
 
 You can open it here:
 
-📄 [📄 View General Documentation PDF](general-documentation/AI%20Clinical%20Decision%20Support%20Hackathon%20Documentation.pdf)
+[📄 View General Documentation PDF](general-documentation/AI%20Clinical%20Decision%20Support%20Hackathon%20Documentation.pdf)
 
 ---
 
