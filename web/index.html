@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clinical Decision Support — Adult Hypertension</title><link rel="stylesheet" href="/static/styles.css"></head>
+<body>
+<div id="auth" class="auth-shell">
+  <div class="auth-brand">
+    <div class="brand-orb">✚</div><div><div class="brand-name">Clinical Decision Support</div><div class="brand-sub">Adult Hypertension · Evidence-grounded AI</div></div>
+  </div>
+  <div class="auth-card">
+    <div class="auth-kicker">PRIVATE CLINICAL WORKSPACE</div><h1 id="authTitle">Welcome back</h1>
+    <p id="authSub">Sign in to your evidence-grounded hypertension assistant.</p>
+    <form id="authForm"><input id="name" placeholder="Full name" autocomplete="name"><input id="email" type="email" placeholder="Email address" autocomplete="email" required><input id="password" type="password" placeholder="Password (8+ characters)" autocomplete="current-password" required><button class="primary" type="submit" id="authBtn">Continue</button></form>
+    <div class="or"><span>OR</span></div><button class="google" id="googleBtn"><span class="gicon">G</span> Continue with Google</button>
+    <button class="link" id="toggleAuth">Create an account</button><div id="authError"></div>
+  </div>
+  <div class="auth-foot">Educational use only · Approved Adult Hypertension evidence</div>
+</div>
+
+<div id="app" class="app-layout hidden">
+<aside class="sidebar" id="sidebar">
+ <div class="sidebar-top"><div class="brand-orb small">✚</div><div><strong>Clinical Decision Support</strong><span>Adult Hypertension Assistant</span></div></div>
+ <div class="user-card"><span id="avatar">U</span><div><b id="userName"></b><small id="userEmail"></small></div></div>
+ <button id="newChat" class="new-chat">＋ New chat</button><div class="history-title">Chat history</div><div id="history" class="history-list"></div>
+ <div class="sidebar-footer"><span class="scope-mini">NICE evidence only</span><button id="settings" class="text-button">Settings</button><button id="logout" class="text-button">Log out</button></div>
+</aside>
+<main class="main-shell"><header class="topbar"><button id="menuButton" class="icon-button mobile-only">☰</button><div><div class="eyebrow">AI CLINICAL DECISION SUPPORT</div><h1>Adult Hypertension Assistant</h1></div><div class="top-actions"><span class="scope-badge">Evidence-grounded</span><span id="health" class="health-badge">Checking…</span></div></header>
+<div class="content-wrap"><section class="notice"><strong>Educational use only.</strong> Answers are grounded in the approved clinical knowledge base and do not diagnose or prescribe.</section><section id="chat" class="chat-area"></section>
+<section class="composer-card"><div class="composer-row"><button id="mic" class="icon-button mic" title="Voice input">🎙</button><textarea id="question" maxlength="1000" placeholder="Ask an Adult Hypertension evidence question…"></textarea><button id="askButton" class="send-button">↑</button></div><div class="composer-meta"><span id="status">Grounded generation · Top-1 evidence</span><span>Ctrl/Cmd + Enter to send</span></div><div class="examples"><button class="example">How is hypertension confirmed?</button><button class="example">Compare lifestyle changes for lowering blood pressure.</button><button class="example">What are common ACE inhibitor side effects?</button></div></section></div></main></div>
+
+<div id="settingsModal" class="modal hidden"><div class="modal-card"><button class="modal-close" id="closeSettings">×</button><h2>Settings</h2><p class="muted">Personalize your workspace and manage your chat storage.</p><h3>Appearance</h3><div class="theme-options"><button data-theme="light">☀ Light</button><button data-theme="dark">☾ Dark</button><button data-theme="system">System</button></div><h3>Chat storage</h3><div class="storage-box"><div class="storage-head"><strong id="storageText">Loading…</strong><span id="storagePercent"></span></div><div class="storage-track"><div id="storageBar"></div></div><p id="storageWarning" class="storage-warning"></p><button id="manageStorage" class="danger-button hidden">Manage storage · Delete chat history</button></div></div></div>
+<div id="sourceModal" class="modal hidden"><div class="modal-card source-modal"><button class="modal-close" id="closeSource">×</button><h2>Source details</h2><div id="sourceContent"></div></div></div>
+<script src="/static/app.js"></script></body></html>
