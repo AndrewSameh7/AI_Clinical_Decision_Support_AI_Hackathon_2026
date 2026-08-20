@@ -277,16 +277,23 @@ AI-Clinical-Decision-Support/
 
 Screenshots of the deployed application are available in the `screenshots/` folder.
 
-You can display them in this README using:
-
-```markdown
+### Login
 ![Login](screenshots/login.jpg)
+
+### Register
 ![Register](screenshots/register.jpg)
+
+### Chat
 ![Chat](screenshots/chat.jpg)
+
+### Sources
 ![Sources](screenshots/sources.jpg)
+
+### Dark Mode
 ![Dark Mode](screenshots/dark-mode.jpg)
+
+### Settings
 ![Settings](screenshots/settings.jpg)
-```
 
 ---
 
